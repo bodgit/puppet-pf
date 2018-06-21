@@ -2,7 +2,7 @@
 
 Tested with Travis CI
 
-[![Build Status](https://travis-ci.org/bodgit/puppet-pf.svg?branch=master)](https://travis-ci.org/bodgit/puppet-pf)
+[![Build Status](https://travis-ci.com/bodgit/puppet-pf.svg?branch=master)](https://travis-ci.com/bodgit/puppet-pf)
 [![Coverage Status](https://coveralls.io/repos/bodgit/puppet-pf/badge.svg?branch=master&service=github)](https://coveralls.io/github/bodgit/puppet-pf?branch=master)
 [![Puppet Forge](http://img.shields.io/puppetforge/v/bodgit/pf.svg)](https://forge.puppetlabs.com/bodgit/pf)
 
